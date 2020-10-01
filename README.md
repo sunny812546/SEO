@@ -1,4 +1,4 @@
-# SEO
+# Best SEO Practice
 
 Use Maximum Meta tags in your website
 
